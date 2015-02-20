@@ -8,9 +8,10 @@
 5. Dan di baris selanjutnya tulis (tanda kurang dari)(garis miring) script (tanda lebih dari)
 6. Di antara dua tag itu, paste kode yang sudah kalian kopi. Jangan lupa untuk mengganti alamat http://hudasanca.com menjadi alamat kalian (ctrl+f untuk mencari)
 7. Setelah itu, kopi baris kode di bawah.. jangan lupa untuk mengganti alamat http://hudasanca.com menjadi blog milik kalian. Semoga berhasil. 
-
+ kode:
    
     <script src="http://hudasanca.com/feeds/posts/default?max-results=500&amp;alt=json-in-script&amp;callback=LoadTheArchive">
     </script>
-    
+
+
 #Contoh bisa dilihat di http://pti.hudasanca.com/p/arsip.html (arsip diambil dari hudasanca.com)
